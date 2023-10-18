@@ -18,6 +18,5 @@
 - Asked a stupid question
 - Therefore did not get an answer
 
-## 2108443  
-Are you likely to miss the notifications? 
-> I could miss it so the app should send multiple reminders until the medication is collected from the pharmacy. 
+## 2108443 - Are you likely to miss the notifications? 
+ I could miss it so the app should send multiple reminders until the medication is collected from the pharmacy. 
